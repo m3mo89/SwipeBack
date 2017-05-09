@@ -10,7 +10,7 @@
   <remove-node path="/api/package[@name='me.imid.swipebacklayout.lib']/interface[@name='SwipeBackLayout.SwipeListener']" />	
 
   <attr path="/api/package[@name='me.imid.swipebacklayout.lib']" 
-        name="managedName">Xam.Swipebacklayout</attr>
+        name="managedName">Xamarin.Android.SwipeBackLayout</attr>
   <attr path="/api/package[@name='me.imid.swipebacklayout.lib.app']" 
-        name="managedName">Xam.Swipebacklayout.App</attr>	
+        name="managedName">Xamarin.Android.SwipeBackLayout.App</attr>	
 </metadata>

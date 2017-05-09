@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwipeBackLayout", "SwipeBackLayout\SwipeBackLayout.csproj", "{A6CD7A03-47AE-436B-A22F-DF2ED97085AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwipeBackLayoutSampleApp", "SwipeBackLayoutSampleApp\SwipeBackLayoutSampleApp.csproj", "{DDC6DD83-479C-4C67-A368-A69834D1B1E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{A6CD7A03-47AE-436B-A22F-DF2ED97085AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6CD7A03-47AE-436B-A22F-DF2ED97085AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6CD7A03-47AE-436B-A22F-DF2ED97085AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC6DD83-479C-4C67-A368-A69834D1B1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC6DD83-479C-4C67-A368-A69834D1B1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC6DD83-479C-4C67-A368-A69834D1B1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC6DD83-479C-4C67-A368-A69834D1B1E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
